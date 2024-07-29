@@ -1,0 +1,6 @@
+framework module Pods_Anasurya_Task {
+  umbrella header "Pods-Anasurya_Task-umbrella.h"
+
+  export *
+  module * { export * }
+}
